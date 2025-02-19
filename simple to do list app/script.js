@@ -13,5 +13,5 @@ buttons.addEventListener("click",function ccc() {
         newelem.querySelector("i").addEventListener("click" , function deletee() {
             newelem.remove()
         })
-    }
+    }//poka //ok
 })
